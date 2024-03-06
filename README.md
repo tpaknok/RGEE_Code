@@ -7,4 +7,4 @@
 <!-- badges: end -->
 
 Experimental code to using Google Earth Engine in R. Codes to create an
-annual soil moisture raster are provided.
+annual soil moisture raster are provided. Clunky!
